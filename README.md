@@ -1,5 +1,4 @@
-# wpth-adams-v6-fix-for-wp58
-WordPress theme Adams v6 urgent compatibility fix for WordPress v5.8
+# WordPress Theme (Adams) Compatibility Urgent Fix for WordPress v5.x
 
 Dear Precious Clients,
 
